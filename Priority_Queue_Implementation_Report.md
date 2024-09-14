@@ -1,7 +1,7 @@
 
-# Deliverables for Priority Queue Implementation and Scheduler Simulation
+# Deliverables for Priority Queue Implementation and Applications
 
-## 1. Well-Documented Source Code
+## 1. Source Code
 
 The priority queue implementation uses a **min-heap** where tasks are stored in a list (array). The following operations are implemented and tested with sample output:
 
@@ -34,6 +34,6 @@ The code is well-commented, explaining each operation and its purpose. The final
 
 The time complexity of each operation ensures that the priority queue performs efficiently even for larger task sets (Cormen et al., 2022, p. 164).
 
-## Citation
+## Reference
 
 Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2022). *Introduction to algorithms* (4th ed.). MIT Press.
