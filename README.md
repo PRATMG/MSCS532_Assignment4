@@ -20,6 +20,18 @@
    ```
    Replace `<filename>` with the actual name of the Python file.
 
+### File Descriptions
+
+| File Name               | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| [heapsort.py](./heapsort.py)            | Python script implementing the heapsort algorithm.                           |
+| [heap_comparison.py](./heap_comparison.py)     | Python script that compares the performance of heapsort, quicksort, and merge sort. |
+| [heapsort_analysis.md](./heapsort_analysis.md)   | Report on the heapsort implementation, comparison with other algorithms, and analysis. |
+| [priorityQ.py](./priorityQ.py)           | Python script implementing the priority queue using a min-heap.              |
+| [Priority_Queue.md](./Priority_Queue.md)      | Contains the detailed report of the priority queue implementation and its operations. |
+| [README.md](./README.md)              | This README file with instructions on running the code and summary of findings. |
+
+
 
 ## Summary of Findings
 
