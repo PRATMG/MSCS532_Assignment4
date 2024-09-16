@@ -1,7 +1,7 @@
 ## Analysis of Heapsort Implementation
 
 ### 1. Implementation
-Heapsort algorithm is implemented [here](./heapsort.py)  
+Heapsort algorithm is implemented [here](./heapsort.py).  
 
 ### 2. Analysis of Implementation
 
